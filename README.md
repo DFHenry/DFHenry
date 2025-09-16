@@ -6,4 +6,5 @@ ___
 Here are some links to my various social media profiles
 
 [LinkedIn Profile](https://www.linkedin.com/in/david-henry-72b44546/)
+
 [Graphic Design Portfolio](https://www.behance.net/davidhenry39#)
