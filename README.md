@@ -13,6 +13,8 @@ Over the last twenty years, I have developed a number of skillsets across many f
 
 Many of my coding talents have been learned in the last year, though I have been practicing them on and off for nearly ten years. I can apply them across many different platforms and disciplines.
 
+![HTML](html-logo.png) {width: 150px;}
+
 ### Graphic Design
 
 I have nearly five years of graphic design experience, largely in the print industry. I am very familiar with the Adobe Suite and can pick up new graphic design programs very quickly. I can also do video and audio editing.
