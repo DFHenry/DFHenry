@@ -13,7 +13,7 @@ Over the last twenty years, I have developed a number of skillsets across many f
 
 Many of my coding talents have been learned in the last year, though I have been practicing them on and off for nearly ten years. I can apply them across many different platforms and disciplines.
 
-![HTML](html-logo.png) {width: 150px;}
+<img src="html-logo.png" alt="HTML Logo" width="200"/>
 
 ### Graphic Design
 
