@@ -13,21 +13,29 @@ Over the last twenty years, I have developed a number of skillsets across many f
 
 Many of my coding talents have been learned in the last year, though I have been practicing them on and off for nearly ten years. I can apply them across many different platforms and disciplines.
 
-<img src="html-logo.png" alt="HTML Logo" width="200"/><img src="css-logo.png" alt="HTML Logo" width="200"/><img src="javascript-logo.png" alt="HTML Logo" width="200"/>
-<img src="nodeJS_Logo.png" alt="HTML Logo" width="200"/><img src="php-logo.png" alt="HTML Logo" width="200"/><img src="css-logo.png" alt="HTML Logo" width="200"/>
+<img src="html-logo.png" alt="HTML Logo" width="200"/><img src="css-logo.png" alt="CSS Logo" width="200"/><img src="javascript-logo.png" alt="Javascript Logo" width="200"/>
+<img src="nodeJS_Logo.png" alt="Node JS Logo" width="200"/><img src="php_logo.png" alt="PHP Logo" width="200"/><img src="markdown-logo.png" alt="Markdown Logo" width="200"/>
 
 ### Graphic Design
 
 I have nearly five years of graphic design experience, largely in the print industry. I am very familiar with the Adobe Suite and can pick up new graphic design programs very quickly. I can also do video and audio editing.
 
+<img src="indesign_logo.png" alt="Adobe InDesign Logo" width="200"/><img src="adobe-photoshop.png" alt="Photoshop Logo" width="200"/><img src="adobe-illustrator-logo.png" alt="Adobe Illustrator Logo" width="200"/>
+<img src="adobe-premiere-logo.png" alt="Adobe Premiere Logo" width="200"/><img src="adobe-afterEffects-logo.png" alt="Adobe After Effects Logo" width="200"/><img src="adobe-audition-logo.png" alt="Adobe Audition Logo" width="200"/>
+
 ### Game Design
 
-I also have a background in game design and development. While I haven't practiced making my own games in a while, I can pick them up again fairly quickly. Additionally, I have exprience with 3D Modelling using 3DS Max and Blender3D, which I still use for my 3D printing hobbies. 
+I also have a background in game design and development. While I haven't practiced making my own games in a while, I can pick them up again fairly quickly. Additionally, I have exprience with 3D Modelling using 3DS Max and Blender3D, which I still use for my 3D printing hobbies.
+
+<img src="unit-logo.png" alt="Unity 3D Logo" width="200"/><img src="csharp-logo.png" alt="C Sharp Logo" width="200"/>
+<img src="blender-logo.png" alt="Blender 3D Logo" width="200"/><img src="zbrush-logo.png" alt="Z Brush Logo" width="200"/>
 ___
 
 ## Links
 
-Here are some links to my various social media profiles
+Here are links to my portfolio website as well as my various social media profiles
+
+[Portfolio Website](https://www.davidfhenry.com)
 
 [LinkedIn Profile](https://www.linkedin.com/in/david-henry-72b44546/)
 
