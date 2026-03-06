@@ -1,8 +1,8 @@
 ![David Henry Designs Banner Image](PersonalLogo_Banner.png "David Henry Designs Banner Image")
 
-# David Henry - Aspiring Web Developer
+# David Henry - Web Developer & Graphic Designer
 
-Hello! I'm David! I'm currently enrolled at Humber Polytechnic in the Web Development post-graduate program. I have a background in graphic desing and game development. I also do 3D printing projects in my spare time.
+I'm David! I am a Web Developer and Graphic Designer who helps people and companies find their style and apply it to their branding, whether it's a e-commerce business, a small shop, a traveling merchant, or anything in between! Take a look around and see what I have to offer!
 ___
 ## Links
 
